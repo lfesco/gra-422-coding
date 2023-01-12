@@ -1,6 +1,10 @@
+body {
+    background-color: whitesmoke;
+  }
+
 .container{
     display:flex;
-    background-color: white;
+    background-color: #F8F8F8;
     width:100%;
     height:100%;
 }
@@ -11,7 +15,7 @@
     width: 71.428571vw;
     background-color: white;
     margin: auto;
-    border: 0.25px solid black;
+  
 }
 
 .rectangle-2{
@@ -36,7 +40,6 @@
     width: 71.428571vw;
     background-color: white;
     margin: auto;
-    border: 0.25px solid black;
 }
 
 .rectangle-5{
@@ -45,7 +48,8 @@
     width: 42.857143vw;
     background-color: white;
     margin: auto;
-    border: 0.25px solid black;
+    border: 0.25px solid;
+    border-color: #C0C0C0;
 }
 
 .rectangle-6{
